@@ -1,0 +1,15 @@
+# Ignore everything
+*
+
+# Ignore these files
+!.gitignore
+
+!src
+!src/
+!src/**
+
+!*.jar
+
+!Hexagon1.txt
+!Hexagon2.txt
+!HexagonNoSolution.txt
